@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.phelat.fun.Layouts.Funny xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/mFunny">
+
+    <com.phelat.fun.Widget.FunnyButton
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom|center_horizontal"
+        android:layout_marginBottom="20dp"
+        app:cardBackgroundColor="#8d6e63"
+        app:text="FUN!"
+        app:textColor="#FFFFFF"
+        app:textSize="15sp"
+        android:id="@+id/mFunnyButton"
+        android:minWidth="100dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginLeft="10dp">
+
+        <LinearLayout
+            android:id="@+id/mFunContainer"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:visibility="gone"
+                android:textColor="#FFFFFF"
+                android:padding="10dp"
+                android:text="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."/>
+
+        </LinearLayout>
+
+    </com.phelat.fun.Widget.FunnyButton>
+
+</com.phelat.fun.Layouts.Funny>

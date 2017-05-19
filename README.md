@@ -2,7 +2,7 @@
 
 A library for android to animate expanding and collapsing views.
 
-![alt tag](https://github.com/PHELAT/Fun/blob/master/screenshot/screenshot.gif)
+<img src="https://github.com/PHELAT/Fun/blob/master/screenshot/screenshot.gif" width="300" height="500">
 
 ## Installation
 ### Gradle

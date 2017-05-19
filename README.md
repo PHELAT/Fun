@@ -1,6 +1,6 @@
 # Fun
 
-[![api](https://img.shields.io/badge/API-16-brightgreen.svg)](https://github.com/PHELAT/Fun)
+[![api](https://img.shields.io/badge/API-16-brightgreen.svg)](https://github.com/PHELAT/Fun) [![cl](https://travis-ci.org/PHELAT/Fun.svg?branch=master)](https://github.com/PHELAT/Fun)
 
 A library for android to animate expanding and collapsing views.
 

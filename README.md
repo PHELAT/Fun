@@ -1,5 +1,7 @@
 # Fun
 
+[![api](https://img.shields.io/badge/API-16-brightgreen.svg)](https://github.com/PHELAT/Fun)
+
 A library for android to animate expanding and collapsing views.
 
 <img src="https://github.com/PHELAT/Fun/blob/master/screenshot/screenshot.gif" width="300" height="500">
